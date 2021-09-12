@@ -1,0 +1,40 @@
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\appsettings.json
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.exe
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.deps.json
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.runtimeconfig.json
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.runtimeconfig.dev.json
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.dll
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\ref\Website Portfolio.dll
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.pdb
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.Views.dll
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\bin\Debug\net5.0\Website Portfolio.Views.pdb
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.AssemblyInfoInputs.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.AssemblyInfo.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.RazorAssemblyInfo.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.RazorAssemblyInfo.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\staticwebassets\Website Portfolio.StaticWebAssets.Manifest.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\staticwebassets\Website Portfolio.StaticWebAssets.xml
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\scopedcss\bundle\Website Portfolio.styles.css
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.TagHelpers.input.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.TagHelpers.output.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.RazorCoreGenerate.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.RazorTargetAssemblyInfo.cs
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.Views.pdb
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.dll
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\ref\Website Portfolio.dll
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.pdb
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.genruntimeconfig.cache
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.csproj.CopyComplete
+C:\Users\chauk\source\repos\Website Portfolio\Website Portfolio\obj\Debug\net5.0\Website Portfolio.csproj.AssemblyReference.cache
